@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 단국대 모바일시스템공학과 20
+- 키 163
+- 시력 -0.4
+
+
+
+---
+### language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaalswn1229&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rlaalswn1229/rlaalswn1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
